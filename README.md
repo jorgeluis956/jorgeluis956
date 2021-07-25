@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jorgeluis956
-- 👀 I’m interested in all things that can be done in the intersection of technology, journalism, and vybersecurity.
-- 🌱 I’m currently learning digital forensics and blockchain technologies.
+- 👀 I’m interested in all things that can be done in the intersection of technology, journalism, and cybersecurity.
+- 🌱 I’m currently learning penetration testing, digital forensics and blockchain technologies.
 - 💞️ I’m looking to collaborate on innovation projects.
 - 📫 How to reach me jorgeluis at bordercenter dot net
 
